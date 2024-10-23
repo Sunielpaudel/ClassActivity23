@@ -1,7 +1,7 @@
 #ifndef VALIDATION_HPP
 #define VALIDATION_HPP
 
-//#include <string>
+#include <string>
 
 namespace numberValidation {
 	bool isAlphabetic(const std::string& str);
