@@ -22,7 +22,7 @@ The program reads a customer number input from the user and determines whether i
 
 ### Code Organization
 The code is organized into three main files:
-- **validation.hpp**: This header file declares the functions that handle the alphabetic check, numeric check, and customer number validation.
+- **forValidation.hpp**: This header file declares the functions that handle the alphabetic check, numeric check, and customer number validation.
 - **validation.cpp**: This source file implements the functions declared in the header file.
 - **main.cpp**: This file contains the main function, which handles user input and calls the validation functions.
 
